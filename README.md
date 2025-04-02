@@ -10,6 +10,6 @@
 <body>
     <h1>Chào mừng đến với AppRealEstate</h1>
     <p>Ứng dụng giúp bạn tìm kiếm bất động sản dễ dàng và nhanh chóng.</p>
-    <img src="/public/images/title.jpg" alt="Hình ảnh bất động sản" with="150px" height="150px">
+    <img src="/public/images/title.jpg" alt="Hình ảnh bất động sản" with="400px" height="500px">
 </body>
 </html>
